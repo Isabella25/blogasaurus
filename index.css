@@ -1,16 +1,18 @@
 #titlee{
-  color:pink;
+  color:red;
 }
 #one{
-  color:red;
+  color:pink;
 }
 #two{
   color:blue;
 }
 
 #words{
-  color:blue;
+  color:blue;}
 
-.textee{
-  font-size:12;
-}
+.topp{
+  background-color: lightblue;}
+
+.midd{
+  background-color: pink;}
